@@ -1,0 +1,29 @@
+{
+  "name": "mocha-reportportal-agent",
+  "version": "0.0.1",
+  "description": "Agent for integration Mocha with ReportPortal.",
+  "contributors": [
+    {
+      "name": "Andrei Belousov",
+      "email": "BelAn97@gmail.com"
+    }
+  ],
+  "main": "./lib/mocha-reportportal-reporter",
+  "dependencies": {
+    "reportportal-client": "^5.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.4",
+    "deasync": "^0.1.12"
+  },
+  "author": "Andrei Belousov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BelAn97/mocha-rp-agent.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter"
+  ]
+}
