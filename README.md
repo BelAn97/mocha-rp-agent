@@ -24,6 +24,7 @@ require('./mocha-reportportal-reporter.js');
             project: "PROJECT_NAME",
             // agent settings
             attachPicturesToLogs: true,
+            showPassedHooks: false
         },
         timeout: 600000
     },
