@@ -11,11 +11,9 @@ npm i mocha-reportportal-agent --save-dev
 ```
 2. Add reporter to mocha options:
 ```javascript
-require('./mocha-reportportal-reporter.js');
-
     mochaOpts: {
         colors: true,
-        reporter: 'mocha-reportportal-reporter',
+        reporter: 'mocha-reportportal-agent',
         reporterOptions: {
             // client settings
             token: "00000000-0000-0000-0000-000000000000",
@@ -29,8 +27,6 @@ require('./mocha-reportportal-reporter.js');
         timeout: 600000
     },
 
-
-
 ### Settings
 Agent settings consist of two parts:
 * Client settings can be viewed [here](https://github.com/reportportal/client-javascript#settings)
@@ -39,6 +35,7 @@ Agent settings consist of two parts:
 Parameter | Description
 --------- | -----------
 attachScreenshots | It is 'true' or 'false', if set 'true' then attempts will be made to attach screenshots to the logs. Default: 'true'.
+showPassedHooks | It is 'true' or 'false', if set 'true' then attempts will be made to add passed hooks to the logs. Default: 'false'.
 
 # Copyright Notice
 Licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html)
