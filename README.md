@@ -23,7 +23,7 @@ require('./mocha-reportportal-reporter.js');
             launch: "LAUNCH_NAME",
             project: "PROJECT_NAME",
             // agent settings
-            attachPicturesToLogs: true,
+            attachScreenshots: true,
             showPassedHooks: false
         },
         timeout: 600000
@@ -38,7 +38,7 @@ Agent settings consist of two parts:
 
 Parameter | Description
 --------- | -----------
-attachPicturesToLogs | It is 'true' or 'false', if set 'true' then attempts will be made to attach screenshots to the logs. Default: 'true'.
+attachScreenshots | It is 'true' or 'false', if set 'true' then attempts will be made to attach screenshots to the logs. Default: 'true'.
 
 # Copyright Notice
 Licensed under the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.html)
