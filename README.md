@@ -7,7 +7,7 @@ Agent for integration Mocha with ReportPortal.
 ### How to use
 1. Install the agent in your project:
 ```cmd
-npm i mocha-rp-agent --save-dev
+npm i mocha-reportportal-agent --save-dev
 ```
 2. Add reporter to mocha options:
 ```javascript
