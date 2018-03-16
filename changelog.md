@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.6
+add wait timeout
+
 ###0.0.5
 fix default config
 
