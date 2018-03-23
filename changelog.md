@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.9
+remove invokeHandler
+
 ###0.0.8
 fix attachment for test name contains '/'
 
