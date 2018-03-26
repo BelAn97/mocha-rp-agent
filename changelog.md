@@ -1,6 +1,6 @@
 #Changelog
 
-###0.0.11
+###0.0.12
 fix deasync issue at ubuntu
 
 ###0.0.10
