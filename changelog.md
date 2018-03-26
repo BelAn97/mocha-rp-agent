@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.11
+fix deasync issue at ubuntu
+
 ###0.0.10
 clear timeout
 
