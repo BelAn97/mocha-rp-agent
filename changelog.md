@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.16
+added error differences
+
 ###0.0.15
 ubuntu version
 

@@ -1,6 +1,6 @@
 {
   "name": "mocha-reportportal-agent",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Agent for integration Mocha with ReportPortal.",
   "contributors": [
     {
