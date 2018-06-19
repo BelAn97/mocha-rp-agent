@@ -1,6 +1,6 @@
 #Changelog
 
-###0.0.16
+###0.0.17
 added error differences
 
 ###0.0.15
