@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.18
+unable to take screenshot fix
+
 ###0.0.17
 added error differences
 
