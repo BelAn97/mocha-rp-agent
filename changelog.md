@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.19
+remove FinishAll
+
 ###0.0.18
 unable to take screenshot fix
 
