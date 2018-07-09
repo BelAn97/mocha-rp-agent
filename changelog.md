@@ -1,5 +1,8 @@
 #Changelog
 
+###0.1.0
+wait screenshots
+
 ###0.0.20
 fix error
 
