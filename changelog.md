@@ -1,6 +1,6 @@
 #Changelog
 
-###0.1.0
+###0.1.1
 wait screenshots
 
 ###0.0.20
