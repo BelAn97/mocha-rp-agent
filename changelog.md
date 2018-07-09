@@ -1,5 +1,8 @@
 #Changelog
 
+###0.0.20
+fix error
+
 ###0.0.19
 remove FinishAll
 
