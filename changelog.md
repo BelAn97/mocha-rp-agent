@@ -1,6 +1,6 @@
 #Changelog
 
-###0.1.4
+###0.1.5
 wait all promise
 
 ###0.1.2
