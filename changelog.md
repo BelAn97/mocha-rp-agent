@@ -1,5 +1,8 @@
 #Changelog
 
+###0.1.3
+wait finish launch
+
 ###0.1.2
 wait screenshots
 
