@@ -1,5 +1,8 @@
 #Changelog
 
+###0.2.0
+use await/async
+
 ###0.1.7
 wait all promise
 
