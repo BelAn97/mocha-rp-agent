@@ -1,6 +1,6 @@
 {
   "name": "mocha-reportportal-agent",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Agent for integration Mocha with ReportPortal.",
   "contributors": [
     {
@@ -11,7 +11,8 @@
   "main": "./lib/mocha-reportportal-reporter",
   "dependencies": {
     "mocha": "^5.2.0",
-    "reportportal-client": "^5.1.0"
+    "reportportal-client": "^5.1.0",
+    "deasync": "^0.1.13"
   },
   "author": "Andrei Belousov",
   "license": "ISC",

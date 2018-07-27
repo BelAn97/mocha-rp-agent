@@ -1,5 +1,8 @@
 #Changelog
 
+###0.2.1
+use deasync for wait finish
+
 ###0.2.0
 use await/async
 
