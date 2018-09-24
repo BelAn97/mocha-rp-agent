@@ -1,5 +1,8 @@
 #Changelog
 
+###0.2.2
+Fix README layout
+
 ###0.2.1
 use deasync for wait finish
 
