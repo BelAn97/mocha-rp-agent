@@ -26,6 +26,7 @@ npm i mocha-reportportal-agent --save-dev
         },
         timeout: 600000
     },
+```
 
 ### Settings
 Agent settings consist of two parts:
