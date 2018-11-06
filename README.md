@@ -10,7 +10,8 @@ Agent for integration Mocha with ReportPortal.
 npm i mocha-reportportal-agent --save-dev
 ```
 2. Add reporter to mocha options:
-```javascript
+```
+    javascript
     mochaOpts: {
         colors: true,
         reporter: 'mocha-reportportal-agent',

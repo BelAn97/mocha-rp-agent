@@ -1,5 +1,8 @@
 #Changelog
 
+###0.2.3
+Fix fileObj.name
+
 ###0.2.2
 Fix README layout
 
