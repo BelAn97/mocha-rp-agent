@@ -1,5 +1,8 @@
 #Changelog
 
+###0.2.4
+Fix pending test status
+
 ###0.2.3
 Fix fileObj.name
 
